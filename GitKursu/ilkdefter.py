@@ -1,4 +1,1 @@
-print("hello")
-
-while True:
-    print("go")
+#ilk defter dosyası
